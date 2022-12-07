@@ -1,6 +1,7 @@
 # Aprendendo sobre Git Merge
 
-Você verá um conflito rolando aqui...
+A vida é assim!
+
+Você verá um conflito rolando aqui!!!
 E vai perceber que nem tudo dará certo!
 
-A vida é assim!
